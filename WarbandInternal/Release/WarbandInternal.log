@@ -1,0 +1,18 @@
+﻿  Module.cpp
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Module.cpp(17,12): warning C4018: '>': işaretli/işaretsiz uyuşmazlığı
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Module.cpp(37,23): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Module.cpp(61,30): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Module.cpp(67,20): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Module.cpp(132,92): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Module.cpp(132,83): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Module.cpp(142,23): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Module.cpp(207,92): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Module.cpp(207,83): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Module.cpp(217,23): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Module.cpp(280,92): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Module.cpp(280,83): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+  gui.cpp
+  Kod Üretiliyor...
+LINK : warning LNK4075: '/INCREMENTAL' belirtimi nedeniyle '/OPT:ICF' yoksayılıyor
+dllmain.obj : warning LNK4075: '/EDITANDCONTINUE' belirtimi nedeniyle '/OPT:ICF' yoksayılıyor
+  WarbandInternal.vcxproj -> D:\Users\User\source\repos\WarbandInternal\Release\WarbandInternal.dll

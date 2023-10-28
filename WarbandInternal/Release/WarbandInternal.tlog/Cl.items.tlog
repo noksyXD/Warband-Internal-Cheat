@@ -1,0 +1,14 @@
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\dllmain.cpp;D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Release\dllmain.obj
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\drawing.cpp;D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Release\drawing.obj
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\dx.cpp;D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Release\dx.obj
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\gui.cpp;D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Release\gui.obj
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\hook.cpp;D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Release\hook.obj
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\ImGui\imgui.cpp;D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Release\imgui.obj
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\ImGui\imgui_demo.cpp;D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Release\imgui_demo.obj
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\ImGui\imgui_draw.cpp;D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Release\imgui_draw.obj
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\ImGui\imgui_impl_dx9.cpp;D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Release\imgui_impl_dx9.obj
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\ImGui\imgui_impl_win32.cpp;D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Release\imgui_impl_win32.obj
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\ImGui\imgui_tables.cpp;D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Release\imgui_tables.obj
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\ImGui\imgui_widgets.cpp;D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Release\imgui_widgets.obj
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Module.cpp;D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Release\Module.obj
+D:\Users\User\source\repos\WarbandInternal\WarbandInternal\pch.cpp;D:\Users\User\source\repos\WarbandInternal\WarbandInternal\Release\pch.obj
